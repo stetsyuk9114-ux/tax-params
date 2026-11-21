@@ -1,0 +1,70 @@
+{
+ "version": 1,
+ "signedAt": "2026-11-21",
+ "years": {
+  "2024": {
+   "minWageCents": 710000,
+   "subsistenceCents": 302800,
+   "limitMzp": {
+    "1": 167,
+    "2": 834,
+    "3": 1167
+   },
+   "group3Bp": {
+    "5": 500,
+    "3": 300
+   },
+   "overLimitBp": 1500,
+   "militaryG12PctOfMzp": 10,
+   "militaryG3Bp": 0,
+   "esvPct": 22,
+   "sources": {
+    "minWage": "unverified",
+    "subsistence": "unverified"
+   }
+  },
+  "2025": {
+   "minWageCents": 800000,
+   "subsistenceCents": 302800,
+   "limitMzp": {
+    "1": 167,
+    "2": 834,
+    "3": 1167
+   },
+   "group3Bp": {
+    "5": 500,
+    "3": 300
+   },
+   "overLimitBp": 1500,
+   "militaryG12PctOfMzp": 10,
+   "militaryG3Bp": 100,
+   "esvPct": 22,
+   "sources": {
+    "minWage": "https://news.dtkt.ua/simple/common/94753-iakimi-budut-granicni-rozmiri-doxodiv-jedinnikiv-i-iii-grup-u-2025-roci",
+    "subsistence": "https://news.dtkt.ua/simple/common/94753-iakimi-budut-granicni-rozmiri-doxodiv-jedinnikiv-i-iii-grup-u-2025-roci"
+   }
+  },
+  "2026": {
+   "minWageCents": 864700,
+   "subsistenceCents": 332800,
+   "limitMzp": {
+    "1": 167,
+    "2": 834,
+    "3": 1167
+   },
+   "group3Bp": {
+    "5": 500,
+    "3": 300
+   },
+   "overLimitBp": 1500,
+   "militaryG12PctOfMzp": 10,
+   "militaryG3Bp": 100,
+   "esvPct": 22,
+   "sources": {
+    "minWage": "https://news.dtkt.ua/simple/individual-single-tax/115165-jedinii-podatok-u-2026-roci-vibir-grupi-umovi-limiti-podatki-ta-zvitnist (law 4695-IX)",
+    "subsistence": "https://news.dtkt.ua/simple/individual-single-tax/115165-jedinii-podatok-u-2026-roci-vibir-grupi-umovi-limiti-podatki-ta-zvitnist (law 4695-IX)"
+   }
+  }
+ },
+ "signature": "1Emg4CcWiG4Pz6aBC+sg5Tl+Ys0u+fiUbcRYq1lggrW+ZbK2JxeLJCr1XgwZlhbMGTQqNBcptOrR0hlvlpyQAw=="
+}
